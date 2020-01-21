@@ -5,6 +5,8 @@ Tokenization is the process of demarcating and possibly classifying sections of 
 
 The resulting tokens are then passed on to some other form of processing. The process can be considered a sub-task of parsing input.
 
+Tokenization is a way to split text into tokens. These tokens could be paragraphs, sentences, or individual words.
+
 
 
 
